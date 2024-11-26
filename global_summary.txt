@@ -1,0 +1,6 @@
+
+Global COVID-19 Statistics (as of today):
+- Total Cases: 600 Million
+- Total Deaths: 6.5 Million
+- Total Recovered: 500 Million
+- Active Cases: 94 Million
